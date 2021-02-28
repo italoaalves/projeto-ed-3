@@ -1,4 +1,4 @@
-# projeto-ed-3
+# Métodos de ordenação
 
 O objetivo deste projeto é ordenar uma lista de chaves utilizando
 diversos métodos de ordenação. Os requisitos mínimos para atender o projeto
